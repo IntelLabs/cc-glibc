@@ -1,10 +1,10 @@
 # Cryptographic Capability Computing(C3) - glibc
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/IntelLabs/c3-glibc/badge)](https://scorecard.dev/viewer/?uri=github.com/IntelLabs/c3-glibc)
 
-> :warning: **Warning**  
+:warning: **Warning**  
 > The contents of this repository and linked repositories are solely for research
 > purposes and may contain software with vulnerabilities, such as outdated
-> libraries. Do not use in production.
+> libraries. **Do not use in production**.
 >  
 > This library is solely intended for use in the context of the system contained
 > in [c3-simulator](https://github.com/IntelLabs/c3-simulator).
@@ -14,8 +14,7 @@ C3-Simulator is a Simics-based functional simulator for the X86 C3 processor, in
 and kernel support for pointer and data encryption, stack unwinding support for C++ exception 
 handling, debugger enabling, and scripting for running tests.
 
-
-> :information_source: **Notice**  
+:information_source: **Notice**  
 > This material is based upon work supported by the Naval Information Warfare
 > Center Pacific and the Defense Advanced Research Project Agency under Prototype
 > Other Transaction Agreement No. N66001-23-9-4004. Any opinions, findings and
