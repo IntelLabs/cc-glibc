@@ -2,7 +2,7 @@
 
 ### License
 
-The Intel Labs C3-GLIBC project is licensed under the terms in [LICENSE](https://github.com/IntelLabs/c3-glibc/blob/main/LICENSE). By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
+The Intel Labs C3-GLIBC project is licensed under [GPL-2.0](https://github.com/IntelLabs/c3-glibc/blob/main/COPYING) and [LGPL-2.1](https://github.com/IntelLabs/c3-glibc/blob/main/COPYING.LIB) licenses.  By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
 
 ### Sign your work
 
