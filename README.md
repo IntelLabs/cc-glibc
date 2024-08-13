@@ -1,21 +1,29 @@
-== Notice:
+# Cryptographic Capability Computing(C3) - glibc
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/IntelLabs/c3-glibc/badge)](https://scorecard.dev/viewer/?uri=github.com/IntelLabs/c3-glibc)
 
-The contents of this repository and linked repositories are solely for research
-purposes and may contain software with vulnerabilities, such as outdated
-libraries. Do not use in production.
+:warning: **Warning**  
+> The contents of this repository and linked repositories are solely for research
+> purposes and may contain software with vulnerabilities, such as outdated
+> libraries. **Do not use in production**.
+>  
+> This library is solely intended for use in the context of the system contained
+> in [c3-simulator](https://github.com/IntelLabs/c3-simulator).
 
-This library is solely intended for use in the context of the system contained
-in https://github.com/IntelLabs/c3-simulator.
+## Overview  
+C3-Simulator is a Simics-based functional simulator for the X86 C3 processor, including library 
+and kernel support for pointer and data encryption, stack unwinding support for C++ exception 
+handling, debugger enabling, and scripting for running tests.
 
-This material is based upon work supported by the Naval Information Warfare
-Center Pacific and the Defense Advanced Research Project Agency under Prototype
-Other Transaction Agreement No. N66001-23-9-4004. Any opinions, findings and
-conclusions or recommendations expressed in this material are those of the
-author(s) and do not necessarily reflect the views of the Naval Information
-Warfare Center Pacific or the Defense Advanced Research Project Agency.
+:information_source: **Notice**  
+> This material is based upon work supported by the Naval Information Warfare
+> Center Pacific and the Defense Advanced Research Project Agency under Prototype
+> Other Transaction Agreement No. N66001-23-9-4004. Any opinions, findings and
+> conclusions or recommendations expressed in this material are those of the
+> author(s) and do not necessarily reflect the views of the Naval Information
+> Warfare Center Pacific or the Defense Advanced Research Project Agency.
 
-== Original README:
-
+## Original README:
+```
 This directory contains the sources of the GNU C Library.
 See the file "version.h" for what release version you have.
 
@@ -88,3 +96,4 @@ these additional notices to be distributed.  License copyright years may be
 listed using range notation, e.g., 1996-2015, indicating that every year in
 the range, inclusive, is a copyrightable year that would otherwise be listed
 individually.
+```
